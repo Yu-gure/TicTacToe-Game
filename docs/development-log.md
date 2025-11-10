@@ -1,0 +1,1 @@
+- Added displayBoard() method to visualize current game state
